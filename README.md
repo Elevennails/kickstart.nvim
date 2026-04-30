@@ -1,4 +1,7 @@
 # kickstart.nvim
+## My Mod for faster install just run:
+sudo apt install curl
+sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/Elevennails/kickstart.nvim/refs/heads/master/install.sh)"
 
 ## Introduction
 
